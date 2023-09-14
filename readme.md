@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm not your typical 4th-year CSE student; I'm a tech enthusiast with a knack for turning caffeine into code. 😄 Currently pursuing my B.Tech in Computer Science and Engineering, I've been on an exciting adventure through the digital realm.
+ I'm a tech enthusiast with a knack for turning caffeine into code. 😄 Currently pursuing my B.Tech in Computer Science and Engineering, I've been on an exciting adventure through the digital realm.
 
 ## 🔥 What I Bring to the Table
 
