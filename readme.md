@@ -15,7 +15,9 @@
 Here are some of the projects that I've been working on:
 
 [Frizzle] (https://github.com/suvinkrs/Frizzle-Food-Ordering-Project): A brief description of what the project does and your role in it.
+
 [FlixDB] (https://github.com/suvinkrs/FlixDB): Another cool project you've worked on.
+
 Yep, I've been busy.
 
 ## 🌱 What's Next
